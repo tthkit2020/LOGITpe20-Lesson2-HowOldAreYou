@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.exe
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.deps.json
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\julia.voronetskaja\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.genruntimeconfig.cache
